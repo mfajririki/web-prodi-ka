@@ -19,8 +19,8 @@
                             Tentang
                         </a>
                         <ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item text-white" href="/tentangprodi">Tentang Prodi Sistem
-                                    Informasi</a></li>
+                            <li><a class="dropdown-item text-white" href="/tentangprodi">Tentang Prodi Komputerisasi
+                                    Akuntansi</a></li>
                             <li><a class="dropdown-item text-white" href="/visimisitujuan">Visi, Misi & Tujuan</a></li>
                             <li><a class="dropdown-item text-white" href="/stafpengajar">Staf Pengajar</a></li>
                             <li><a class="dropdown-item text-white" href="/profillulusan">Profil Lulusan</a></li>
@@ -48,7 +48,8 @@
                             Kurikulum
                         </a>
                         <ul class="dropdown-menu bg-primary" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item text-white" href="/kurikulum">Kurikulum Sistem Informasi</a>
+                            <li><a class="dropdown-item text-white" href="/kurikulum">Kurikulum Komputerisasi
+                                    Akuntansi</a>
                             </li>
                             <li><a class="dropdown-item text-white" href="/bimbinganakademik">Bimbingan Akademik</a>
                             </li>
