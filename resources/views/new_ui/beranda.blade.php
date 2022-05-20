@@ -18,7 +18,7 @@
                 @endif
                 <div class="col">
                     <p class="subJudulNamaKaprodi">{{ $kaprodi->nama }}</p>
-                    <p style="margin-top: -15px">Ketua Program Studi Komputerisasi Akuntansi</p>
+                    <p style="margin-top: -15px">Ketua Program Studi Sistem Informasi</p>
                     <p style="text-align: justify">{!! $kaprodi->kutipan !!}</p>
                 </div>
             </div>
